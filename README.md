@@ -16,7 +16,7 @@
 
 ## I want to learn 📚
 
-:black_square_button: Java or C# basics
+:black_square_button: C++ basics
 
 ## My contacts  📞
 [![VK](https://img.shields.io/badge/VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/kenyako)
