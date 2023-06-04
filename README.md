@@ -16,7 +16,8 @@
 
 ## I want to learn 📚
 
-:black_square_button: Java basics
+:black_square_button: Java :coffee:<br/>
+:black_square_button: Asynchronous programming :bird:
 
 ## My contacts  📞
 [![VK](https://img.shields.io/badge/VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/kenyako)
