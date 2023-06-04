@@ -20,7 +20,5 @@
 :black_square_button: Asynchronous programming :bird:
 
 ## My contacts  📞
-[![VK](https://img.shields.io/badge/VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/kenyako)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kenyako_t)
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/p/Cdi4qCFOXO5/?igshid=YmMyMTA2M2Y=)
 [![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/376724466178326530/)
