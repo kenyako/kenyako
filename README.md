@@ -17,7 +17,8 @@
 ## I want to learn 📚
 
 :black_square_button: Java :coffee:<br/>
-:black_square_button: Asynchronous programming :bird:
+:black_square_button: Asynchronous programming :bird:<br/>
+:black_square_button: Django :snake:
 
 ## My contacts  📞
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kenyako_t)
