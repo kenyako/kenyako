@@ -8,9 +8,9 @@
 
 ## My technology stack 🧠
 
-#### Languages: 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/kenyako?tab=repositories&q=&type=&language=python&sort=)
+#### Languages:
 [![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=ffffff)](https://github.com/kenyako)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/kenyako?tab=repositories&q=&type=&language=python&sort=)
 
 #### Stuff:
 [![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=000000)](https://github.com/kenyako)
@@ -22,10 +22,10 @@
 
 ## I want to learn 📚
 
-🔲 Parallel programming🔀</br>
-🔲 Docker🐳</br>
-🔲 Microservices💻</br>
-🔲 Kubernetes📦</br>
+✅ Parallel programming🔀</br>
+✅ Docker🐳</br>
+✅ Microservices💻</br>
+✅ Kubernetes📦</br>
 
 ## My contacts  📞
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kenyako_t)
