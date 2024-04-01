@@ -28,5 +28,4 @@
 ✅ Kubernetes📦</br>
 
 ## My contacts  📞
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kenyako_t)
-[![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/376724466178326530/)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kenyako_m)
